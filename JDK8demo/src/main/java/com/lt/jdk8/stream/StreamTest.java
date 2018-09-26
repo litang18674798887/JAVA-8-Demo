@@ -1,4 +1,4 @@
-package com.lt.jdk8;
+package com.lt.jdk8.stream;
 
 import org.junit.Test;
 
